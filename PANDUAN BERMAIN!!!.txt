@@ -1,0 +1,30 @@
+PANDUAN BERMAIN!!!
+
+2048 Game
+
+Deskripsi
+2048 adalah permainan puzzle sederhana yang dimainkan di papan 4x4. Tujuan utama dari permainan ini adalah menggabungkan ubin-ubin dengan angka yang sama untuk mencapai angka 2048 atau lebih. Permainan berakhir jika papan terisi penuh dan tidak ada gerakan yang dapat dilakukan.
+
+Cara Bermain
+1. Papan Permainan: Papan permainan terdiri dari sel 4x4 yang dapat diisi dengan ubin-ubin angka.
+2. Gerakan: Gunakan tombol panah (atas, bawah, kiri, kanan) untuk menggeser semua ubin ke arah yang diinginkan.
+3. Gabungkan Angka: Jika dua ubin dengan angka yang sama bertabrakan setelah digeser, mereka akan bergabung menjadi satu ubin dengan nilai yang merupakan jumlah dari kedua ubin tersebut.
+4. Tujuan Utama: Upaya untuk mencapai ubin dengan angka 2048 atau lebih dengan menggabungkan ubin-ubin yang memiliki angka yang sama.
+5. Penuh dan Tidak Ada Gerakan: Permainan berakhir jika papan terisi penuh dan tidak ada gerakan lagi yang dapat dilakukan.
+
+## Cara Menjalankan Permainan
+1.  Pastikan device tersambung koneksi internet 
+2.  Bermain menggunakan Laptop
+3. pilih file html untuk memulai permainan 
+
+
+Keyboard Shortcuts
+- `Panah Atas`: Geser ubin ke atas
+- `Panah Bawah`: Geser ubin ke bawah
+- `Panah Kiri`: Geser ubin ke kiri
+- `Panah Kanan`: Geser ubin ke kanan
+
+
+Selamat bermain!
+
+---rafly
